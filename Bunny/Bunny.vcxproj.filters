@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Bunny">
+      <UniqueIdentifier>{515CEB0C-BD70-13BE-86F2-B61DF2C50FEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Bunny.h" />
+    <ClInclude Include="src\Bunny\Application.h">
+      <Filter>Bunny</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bunny\Core.h">
+      <Filter>Bunny</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bunny\EntryPoint.h">
+      <Filter>Bunny</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Bunny\Log.h">
+      <Filter>Bunny</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\Bunny\Application.cpp">
+      <Filter>Bunny</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Bunny\Log.cpp">
+      <Filter>Bunny</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
