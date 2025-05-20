@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(519,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(520,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  Log.cpp
+E:\dev\Bunny\src\Bunny\Log.h(18,42): warning C4251: 'Bunny::Log::s_CoreLogger': 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of 'Bunny::Log'
+  (compiling source file 'src/Bunny/Log.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
+      see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+E:\dev\Bunny\src\Bunny\Log.h(19,42): warning C4251: 'Bunny::Log::s_ClientLogger': 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of 'Bunny::Log'
+  (compiling source file 'src/Bunny/Log.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\memory(1557,7):
+      see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+  Application.cpp
+  Generating Code...
+  Bunny.vcxproj -> E:\dev\Bunny\build\x64\Debug\Bunny\Bunny.dll

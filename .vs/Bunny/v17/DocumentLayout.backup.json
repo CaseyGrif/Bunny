@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\dev\\Bunny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\DEV\\BUNNY\\LIB\\SPDLOG\\INCLUDE\\SPDLOG.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:LIB\\SPDLOG\\INCLUDE\\SPDLOG.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47237894-1137-48D5-8A66-E1616AAC8590}|..\\Sandbox\\Sandbox.vcxproj|E:\\dev\\Sandbox\\src\\Sandbox.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\src\\Bunny.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:src\\Bunny.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|E:\\dev\\Bunny\\.gitmodules||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E0DCF21E-8F1D-437D-A998-E877D06A865E}|Bunny.vcxproj|solutionrelative:.gitmodules||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Third Party Library\\include\\spdlog\\fmt\\bundled\\base.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "spdlog.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\lib\\spdlog\\include\\spdlog.h",
+              "RelativeDocumentMoniker": "lib\\spdlog\\include\\spdlog.h",
+              "ToolTip": "E:\\dev\\Bunny\\lib\\spdlog\\include\\spdlog.h",
+              "RelativeToolTip": "lib\\spdlog\\include\\spdlog.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T03:53:48.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".gitmodules",
+              "DocumentMoniker": "E:\\dev\\Bunny\\.gitmodules",
+              "RelativeDocumentMoniker": ".gitmodules",
+              "ToolTip": "E:\\dev\\Bunny\\.gitmodules",
+              "RelativeToolTip": ".gitmodules",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-20T03:46:53.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "base.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Third Party Library\\include\\spdlog\\fmt\\bundled\\base.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Third Party Library\\include\\spdlog\\fmt\\bundled\\base.h",
+              "ViewState": "AgIAAL0BAAAAAAAAAAAYwM4BAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T03:17:31.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\Log.cpp",
+              "RelativeDocumentMoniker": "src\\Bunny\\Log.cpp",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\Log.cpp",
+              "RelativeToolTip": "src\\Bunny\\Log.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T02:35:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Log.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\Log.h",
+              "RelativeDocumentMoniker": "src\\Bunny\\Log.h",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\Log.h",
+              "RelativeToolTip": "src\\Bunny\\Log.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T02:33:53.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\EntryPoint.h",
+              "RelativeDocumentMoniker": "src\\Bunny\\EntryPoint.h",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\EntryPoint.h",
+              "RelativeToolTip": "src\\Bunny\\EntryPoint.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T02:08:59.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\Application.h",
+              "RelativeDocumentMoniker": "src\\Bunny\\Application.h",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\Application.h",
+              "RelativeToolTip": "src\\Bunny\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T01:28:12.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\Core.h",
+              "RelativeDocumentMoniker": "src\\Bunny\\Core.h",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\Core.h",
+              "RelativeToolTip": "src\\Bunny\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T01:28:12.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny\\Application.cpp",
+              "RelativeDocumentMoniker": "src\\Bunny\\Application.cpp",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny\\Application.cpp",
+              "RelativeToolTip": "src\\Bunny\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T01:28:10.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bunny.h",
+              "DocumentMoniker": "E:\\dev\\Bunny\\src\\Bunny.h",
+              "RelativeDocumentMoniker": "src\\Bunny.h",
+              "ToolTip": "E:\\dev\\Bunny\\src\\Bunny.h",
+              "RelativeToolTip": "src\\Bunny.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-20T01:25:03.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sandbox.cpp",
+              "DocumentMoniker": "E:\\dev\\Sandbox\\src\\Sandbox.cpp",
+              "RelativeDocumentMoniker": "..\\Sandbox\\src\\Sandbox.cpp",
+              "ToolTip": "E:\\dev\\Sandbox\\src\\Sandbox.cpp",
+              "RelativeToolTip": "..\\Sandbox\\src\\Sandbox.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T01:14:25.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
